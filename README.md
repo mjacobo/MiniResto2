@@ -1,3 +1,3 @@
-# MiniResto2
+# MiniReto2
 
 Favor de Revisar
